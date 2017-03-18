@@ -1,4 +1,4 @@
-# CampusCow
+# Campus Cow
 Multiplayer, location-based Android application inspired by the flash game [Find the Invisible Cow](http://findtheinvisiblecow.com/)
 
 # Description
