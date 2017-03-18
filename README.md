@@ -2,7 +2,7 @@
 Multiplayer, location-based Android application
 
 # Description
-‣ Campus Cow is a location-based, multiplayer, Android application, inspired by the flash game Find the Invisible Cow.
+‣ Campus Cow is a location-based, multiplayer, Android application, inspired by the flash game [Find the Invisible Cow](http://findtheinvisiblecow.com/).
 
 ‣ Each player can choose to be a cowboy or a cow. There can only be one cow. The first cowboy to find the cow wins the game.
 
