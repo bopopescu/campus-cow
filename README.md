@@ -6,7 +6,7 @@ Multiplayer, location-based Android application inspired by the flash game [Find
 
 ‣ To win, a cowboy must be within 50m of the cow. If multiple cowboys are within 50m of the cow, the closest cowboy will win.
 
-‣ A cow can see all players on the map and their respective marker colors. A cowboy can only see all other cowboy markers; however, the position of the cow will be revealed every 15 seconds to motivate the cow to move instead of hide in one place.
+‣ A cow can see all players on the map and their respective marker colors. A cowboy can only see other cowboy markers; however, the position of the cow will be revealed every 15 seconds to motivate the cow to move instead of hide in one place.
 
 ‣ Red, orange, and yellow markers correspond to a cowboy being within 200m, 400m, and 600m of the cow's current location. A blue marker means that the cowboy is farther than 600m from the cow.
 
